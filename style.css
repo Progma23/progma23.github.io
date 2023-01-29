@@ -1,0 +1,24 @@
+.tit {
+    display: flex;
+justify-content: center;
+font-size: 70pt;
+color: white;
+}
+.Alinear_flex {
+    display: flex;
+justify-content: center;
+}
+
+.comic2 {
+    display: flex;
+    justify-content: center;
+}
+
+.person {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background-color: rgb(92, 8, 248);
+}
